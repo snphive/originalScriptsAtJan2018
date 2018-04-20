@@ -1,0 +1,1 @@
+Scripts within HomologyHuman are for batch jobs, as opposed to computing properties for individual pdbs as done using scripts in OptimizeProtein.  
