@@ -1,8 +1,5 @@
 import os,sys,glob,subprocess,time,yasara
 
-import pydevd
-pydevd.settrace('localhost', port=51234, stdoutToServer=True, stderrToServer=True)
-
 yasara.info.mode = 'txt'
 
 Start = os.getcwd()

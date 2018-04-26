@@ -13,7 +13,7 @@ PDBs:Ab82b0sLigand.pdb;
 ##DelPos = Delete Positive residues
 ##Indiv = provided individual list
 ##All = All the above.
-Command:Stabilize;
+Command:Solubis;
 
 ####In the case of a Supercharge command.
 ## P = try to increase the Netcharge to get the molecule positive
